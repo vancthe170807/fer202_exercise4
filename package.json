@@ -8,8 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "^3.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,5 +37,9 @@
   "description": "This React project has name \"Exercise 4\" of FER202, create by VanCTHE170807, instructor is KhuongPD, class SE1868-NJ",
   "main": "index.js",
   "author": "VanCTHE170807",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "web-vitals": "^4.2.3"
+  },
+  "keywords": []
 }
